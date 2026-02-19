@@ -16,7 +16,7 @@ const Header = () => {
   const [openMobileMenu, setOpenMobileMenu] = useState(false);
 
   return (
-    <div className="w-full fixed shadow-lg z-50 py-4 px-4">
+    <div className="w-full fixed shadow-lg z-50 py-4 px-4 bg-white">
       {/* container */}
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         {/* Logo */}
@@ -64,7 +64,7 @@ const Header = () => {
       </div>
       {/* Mobile Menu items */}
       {openMobileMenu && (
-        <div className="md:hidden mt-6 pb-4">
+        <div className="md:hidden mt-6 pb-4 ">
           <div className="flex flex-col items-center space-y-6">
             {navItems.map((item, idx) => (
               <Link
