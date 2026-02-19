@@ -7,6 +7,7 @@ import Blog from "./pages/Blog";
 import { Contact } from "./pages/Contact";
 import Header from "./components/Header";
 import Portfolio from "./pages/Portfolio";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
