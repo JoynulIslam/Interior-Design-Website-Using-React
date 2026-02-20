@@ -1,18 +1,24 @@
 # 🏡 Interior Design Website
 
-A modern and fully responsive Interior Design website built using **React (Vite)** and **Tailwind CSS**.
+A modern, fully responsive Interior Design website built with **React (Vite)** and **Tailwind CSS**.
 
-This project showcases services, portfolio, blog articles, team members, testimonials, and contact functionality with a clean and professional UI design.
+This project demonstrates component-based architecture, dynamic routing, portfolio filtering, reusable UI components, and modern frontend best practices.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Live Demo
 
-- ⚛️ React (Vite)
-- 🎨 Tailwind CSS
-- 🔀 React Router DOM
-- 🎯 React Icons
-- 📦 JavaScript (ES6+)
+👉 Add your live deployment link here
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- React Router DOM
+- React Icons
+- JavaScript (ES6+)
 
 ---
 
@@ -66,65 +72,34 @@ interior_design/
 
 ## ✨ Features
 
-- ✅ Fully Responsive Layout
-- ✅ Modern UI with Tailwind CSS
-- ✅ Dynamic Routing (React Router)
-- ✅ Portfolio Filtering System
-- ✅ Scroll To Top on Route Change
-- ✅ Reusable Component Architecture
-- ✅ Blog Section
-- ✅ Team Section
-- ✅ Testimonials Section
-- ✅ Contact Form UI
-- ✅ Newsletter Section
-- ✅ Smooth Hover Animations
+- Fully Responsive Layout
+- Modern UI with Tailwind CSS
+- Dynamic Client-Side Routing
+- Portfolio Filtering System
+- Scroll To Top on Route Change
+- Reusable Component Architecture
+- Blog & Team Sections
+- Contact Form UI
+- Smooth Hover Animations
 
 ---
 
-## 🔀 Available Routes
-
-| Route        | Description    |
-| ------------ | -------------- |
-| `/`          | Home Page      |
-| `/about`     | About Page     |
-| `/services`  | Services Page  |
-| `/portfolio` | Portfolio Page |
-| `/team`      | Team Members   |
-| `/blog`      | Blog Articles  |
-| `/contact`   | Contact Page   |
-
----
-
-## 📦 Installation & Setup
-
-Clone the repository:
+## 📦 Installation
 
 ```bash
-git clone https://github.com/JoynulIslam/interior_design.git
-
-
-Go to project folder:
-
+git clone https://github.com/your-username/interior_design.git
 cd interior_design
-
-
-Install dependencies:
-
 npm install
-
-
-Run development server:
-
 npm run dev
-
-🏗 Build for Production
+🏗 Build
 npm run build
-
 👨‍💻 Author
+Joynul Islam
 
-Developed by Joynul Islam
+```
 
 📄 License
 
-This project is licensed under the MIT License.
-```
+This project is open-source and free to use for educational purposes.
+
+⭐ If you like this project, don't forget to give it a star!
