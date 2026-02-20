@@ -1,4 +1,13 @@
-import { FaClock, FaEnvelope, FaFacebookF, FaInstagram, FaLinkedinIn, FaMapMarkerAlt, FaPhoneAlt, FaPinterestP } from "react-icons/fa";
+import {
+  FaClock,
+  FaEnvelope,
+  FaFacebookF,
+  FaInstagram,
+  FaLinkedinIn,
+  FaMapMarkerAlt,
+  FaPhoneAlt,
+  FaPinterestP,
+} from "react-icons/fa";
 
 // contactData.js
 export const contactInfo = [
@@ -6,7 +15,7 @@ export const contactInfo = [
     id: 1,
     icon: FaMapMarkerAlt,
     title: "Our Office",
-    value: "123 Design Street, Creative District  Los Angeles, CA 90001"
+    value: "123/A, Road: 02 , House No: 42/B , Notun Bazar , Dhaka",
   },
   {
     id: 2,
@@ -25,8 +34,8 @@ export const contactInfo = [
     icon: FaClock,
     title: "Working Hours",
     value: "Monday - Friday: 9:00 AM - 6:00 PM",
-    value1: "Saturday: 10:00 AM - 4:00 PM"
-  }, 
+    value1: "Saturday: 10:00 AM - 4:00 PM",
+  },
 ];
 
 export const socialLinks = [
