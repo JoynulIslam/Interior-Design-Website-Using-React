@@ -1,14 +1,6 @@
 # 🏡 Interior Design Website
 
-A modern, fully responsive Interior Design website built with **React (Vite)** and **Tailwind CSS**.
-
-This project demonstrates component-based architecture, dynamic routing, portfolio filtering, reusable UI components, and modern frontend best practices.
-
----
-
-## 🚀 Live Demo
-
-👉 Add your live deployment link here
+A modern, fully responsive Interior Design website built with React (Vite) and Tailwind CSS.
 
 ---
 
@@ -17,7 +9,6 @@ This project demonstrates component-based architecture, dynamic routing, portfol
 - React (Vite)
 - Tailwind CSS
 - React Router DOM
-- React Icons
 - JavaScript (ES6+)
 
 ---
@@ -73,32 +64,36 @@ interior_design/
 ## ✨ Features
 
 - Fully Responsive Layout
-- Modern UI with Tailwind CSS
-- Dynamic Client-Side Routing
+- Modern UI Design
 - Portfolio Filtering System
 - Scroll To Top on Route Change
-- Reusable Component Architecture
-- Blog & Team Sections
-- Contact Form UI
-- Smooth Hover Animations
+- Reusable Components
+- Clean Folder Structure
 
 ---
 
 ## 📦 Installation
 
-```bash
-git clone https://github.com/your-username/interior_design.git
+git clone https://github.com/JoynulIslam/Interior-Design-Website-Using-React
 cd interior_design
 npm install
 npm run dev
-🏗 Build
+
+---
+
+## 🏗 Build
+
 npm run build
-👨‍💻 Author
+
+---
+
+## 👨‍💻 Author
+
 Joynul Islam
 
-```
+---
 
-📄 License
+## 📄 License
 
 This project is open-source and free to use for educational purposes.
 
